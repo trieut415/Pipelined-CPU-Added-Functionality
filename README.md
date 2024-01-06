@@ -1,4 +1,4 @@
-
+In this project, we modified a previously created pipelined CPU and added functionality to it to handle data dependencies and more in Verilog.
 1. We synthesized the project given the original testbench and observed the outputs, and all of the
 observed values seemed to match the testbench comments and output. This waveform without
 forwarding displayed all of its expected values.
